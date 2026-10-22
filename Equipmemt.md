@@ -1,0 +1,1 @@
+B6733216-ทำ Entity EquipmentLoan
